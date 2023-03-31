@@ -59,10 +59,12 @@ params:
         imageHeight: 120
         imageTitle: "Nguyen Cao Duy"
         buttons:
-            - name: Blogs
-              url: blogs
+            - name: Posts
+              url: posts
             - name: Projects
               url: projects
+            - name: About
+              url: about
 
     # home-info mode
     homeInfoParams:
@@ -72,18 +74,10 @@ params:
             machine learning, and software engineering."
 
     socialIcons:
-        - name: youtube
-          url: "http://youtube.com/dataprofessor"
-        - name: medium
-          url: "https://medium.com/@data-professor"
-        - name: twitter
-          url: "https://twitter.com/thedataprof"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/chanin-nantasenamat/"
         - name: github
-          url: "https://github.com/dataprofessor"
-        - name: buymeacoffee
-          url: "https://www.buymeacoffee.com/dataprofessor"
+          url: "https://github.com/ncduy0303"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/caoduynguyen/"
 
     analytics:
         google:
@@ -118,19 +112,16 @@ params:
 
 menu:
     main:
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 4
-        - identifier: blog
-          name: Blogs
-          url: /blogs/
+
+        - identifier: posts
+          name: Posts
+          url: /posts/
           weight: 1
         - identifier: projects
           name: Projects
           url: /projects/
           weight: 2
-        - identifier: infographics
-          name: Infographics
-          url: /infographics/
+        - identifier: about
+          name: About
+          url: /about/
           weight: 3
