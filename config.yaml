@@ -1,0 +1,14 @@
+baseURL: https://example.com
+languageCode: en-us
+title: Nguyen Cao Duy
+theme: PaperMod
+
+params:
+    profileMode:
+        enabled: true
+        title: "Nguyen Cao Duy" 
+        subtitle: "1st Year NUS Computer Science Student"
+        imageUrl: "images/profile.jpg"
+        imageTitle: "Profile Image" 
+        imageWidth: 120
+        imageHeight: 120
