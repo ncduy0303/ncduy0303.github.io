@@ -112,7 +112,6 @@ params:
 
 menu:
     main:
-
         - identifier: posts
           name: Posts
           url: /posts/
@@ -125,3 +124,15 @@ menu:
           name: About
           url: /about/
           weight: 3
+        - identifier: archives
+          name: Archives
+          url: /archives/
+          weight: 4
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 5
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 6
