@@ -78,6 +78,8 @@ params:
           url: "https://github.com/ncduy0303"
         - name: linkedin
           url: "https://www.linkedin.com/in/caoduynguyen/"
+        - name: email
+          url: "mailto:caoduy73@gmail.com"
 
     # analytics:
     #     google:
