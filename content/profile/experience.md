@@ -1,9 +1,8 @@
 ---
 title: "Work Experience"
-date: 2023-03-31T06:57:06+08:00
-description: ""
-tags: []
-draft: true
+ShowReadingTime: false
+showToC: true
+draft: false
 ---
 
 [My Resume](/pdfs/Resume.pdf)

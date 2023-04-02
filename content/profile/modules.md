@@ -1,9 +1,9 @@
 ---
 title: "Modules"
-date: 2023-03-31T06:43:41+08:00
 description: "List of modules that I have taken at NUS"
-tags: []
-draft: true
+ShowReadingTime: false
+showToC: true
+draft: false
 ---
 
 ## Computer Science

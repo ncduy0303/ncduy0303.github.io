@@ -3,12 +3,13 @@ title: "An introduction to Kaggle"
 date: 2023-03-31T07:08:59+08:00
 description: ""
 tags: ["data science", "kaggle"]
+showToc: true
 draft: true
 ---
 
 # Giới thiệu về Kaggle
 
-**[👋](https://emojipedia.org/waving-hand/)** Chào mọi người, mình là Duy, hiện đang học ngành Data Science và Analytics tại NUS. Trong những năm vừa qua, tốc độ phát triển của các ngành Artificial Intelligence (AI)/ Machine Learning (ML)/ hay Data Science (DS) rất đáng kinh ngạc, và nhu cầu học tập về AI/ML/DS liên tục gia tăng.
+👋 Chào mọi người, mình là Duy, hiện đang học ngành Data Science và Analytics tại NUS. Trong những năm vừa qua, tốc độ phát triển của các ngành Artificial Intelligence (AI)/ Machine Learning (ML)/ hay Data Science (DS) rất đáng kinh ngạc, và nhu cầu học tập về AI/ML/DS liên tục gia tăng.
 
 **[📚](https://emojipedia.org/books/)** Hôm nay, để nối tiếp cho bài viết của bạn Hoàng về việc học AI/ML/DS theo chương trình đại học tại NUS (**https://www.facebook.com/groups/vndafamily/permalink/1166797370591690/),** mình muốn chia sẻ về một nền tảng cho việc tự học AI/ML/DS. 
 
