@@ -7,6 +7,10 @@ draft: false
 
 ## 2023
 
+- Citadel - Correlation One APAC Regional Terminal 2023 - 3rd place
+- TikTok Hackathon Challenge Finalist (Top 12)
+- NUS Quantitative Finance Society - Optiver Tradestastic 2023 Finalist (Top 30)
+- GIC Computing for the Community Fellowship Award
 - NUS Top Students for Discrete Structures
 - NUS Top Students for Programming Methodology II
 - DSTA BrainHack Cyber Defenders Discovery Camp 2023 (University) - Team 8th place
