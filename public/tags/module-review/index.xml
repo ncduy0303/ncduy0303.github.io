@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Module Review on Duy Nguyen</title>
+    <link>https://ncduy.github.io/tags/module-review/</link>
+    <description>Recent content in Module Review on Duy Nguyen</description>
+    <image>
+      <title>Duy Nguyen</title>
+      <url>https://ncduy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ncduy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2023 17:04:32 +0800</lastBuildDate>
+    <atom:link href="https://ncduy.github.io/tags/module-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Y1S2 Module Review</title>
+      <link>https://ncduy.github.io/posts/module-reviews/y1s2/</link>
+      <pubDate>Sun, 25 Jun 2023 17:04:32 +0800</pubDate>
+      <guid>https://ncduy.github.io/posts/module-reviews/y1s2/</guid>
+      <description>AY22/23 Year 1 Semester 2 Module Review</description>
+    </item>
+    <item>
+      <title>Y1S1 Module Review</title>
+      <link>https://ncduy.github.io/posts/module-reviews/y1s1/</link>
+      <pubDate>Sat, 24 Jun 2023 23:18:30 +0800</pubDate>
+      <guid>https://ncduy.github.io/posts/module-reviews/y1s1/</guid>
+      <description>AY22/23 Year 1 Semester 1 Module Review</description>
+    </item>
+  </channel>
+</rss>

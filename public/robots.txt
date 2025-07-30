@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ncduy.github.io/sitemap.xml
