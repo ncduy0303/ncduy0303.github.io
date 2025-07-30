@@ -1,34 +1,45 @@
 ---
-title: "Work Experience"
-ShowReadingTime: false
+title: "Experience"
+ShowReadingTime: true
 showToC: true
 draft: false
 ---
 
-### National University of Singapore
+[Download Resume PDF](/pdfs/Duy_Nguyen_CV.pdf)
 
-August 2023 - Present
+## National University of Singapore, Teaching Assistant
 
-Undergraduate Teaching Assistant (Discrete Structures, Data Structures and Algorithms)
+- Part-time
+- Singapore
+- Courses taught:
+  - CS2040 Data Structures and Algorithms - AY2024/2025 S1 [Teaching Feedback](/pdfs/Duy_Nguyen_Teaching_Feedback_CS2040_AY2425_S1.pdf)
+  - CS2040 Data Structures and Algorithms - AY2023/2024 S2 [Teaching Feedback](/pdfs/Duy_Nguyen_Teaching_Feedback_CS2040_AY2324_S2.pdf)
+  - CS2040 Data Structures and Algorithms - AY2023/2024 S1 [Teaching Feedback](/pdfs/Duy_Nguyen_Teaching_Feedback_CS2040_AY2324_S1.pdf)
+  - CS1231S Discrete Structures - AY2023/2024 S1 [Teaching Feedback](/pdfs/Duy_Nguyen_Teaching_Feedback_CS1231S_AY2324_S1.pdf)
 
-- Conducted weekly sessions for 20-30 students, clarifying complex computer science and mathematical concepts
-- Covered topics such as logic & proof techniques, relations & functions, counting & combinatorics, design & analysis of fundamental data structures and algorithms
+## AI Centre for Educational Technologies, Software Engineer Intern
 
-### CVWO - Computing for Voluntary Welfare Organisations
+- May 2025 - Aug 2025
+- Singapore
+- Enhanced [Coursemology](https://github.com/Coursemology/coursemology2), an open-source gamified LMS used by thousands of students and instructors
+- Integrated AI-assisted grading and programming plagiarism services, enabling automated rubric feedback and similarity scans to enhance grading consistency and reduce manual workload for instructors
 
-May 2023 - August 2023
+## Vilota, Algorithm Engineer Intern
 
-Full Stack Developer Intern
+- May 2024 - Aug 2024
+- Singapore
+- Integrated AprilTag 3 to accelerate fiducial marker detection, achieving 6x faster camera calibration
+- Implemented real-time panorama generation algorithm with parallel processing on i.MX 8M Plus Processors
 
-- Leveraged React, TypeScript, Golang and PostgreSQL to upgrade a multi-tenancy system used by over 400 social workers across 11 Active-Aging Centres to improve operational efficiency and administrative tasks, including the management of 15,000 elderly clients
-- Developed an admin dashboard for easier cross-centre management for large agencies such as Care Corner
-- Developed a low-code solution using GORM for CVWO developers to build custom reports for different centres quickly, reducing the time taken for a developer to create reports from days to hours using a single SQL query
+## Computing for Voluntary Welfare Organisations, Software Engineer Intern
 
-### A\*STAR Institute for Infocomm Research (I2R)
+- May 2023 - Aug 2023
+- Singapore
+- Built admin dashboard for a multi-tenancy management system used by 400+ social workers in 11 Active-Aging Centres
+- Built low-code tool for custom reports, reducing developing time for new client requirements from days to hours
 
-January 2022 - April 2022
+## Institute for Infocomm Research, NLP Research Intern
 
-Student Research Intern at the Aural & Language Intelligence (ALI) Department
-
-- Crawled 1 million of English-Vietnamese sentences with BeautifulSoup and Selenium.
-- Trained machine translation (40+ BLEU score) and quality estimation models using Fairseq for Vietnamese Neural Machine Translation Engine.
+- Jan 2022 - Apr 2022
+- Singapore
+- Trained a transformer model for Vietnamese Neural Machine Translation Engine (40+ BLEU score) and different quality estimation models to evaluate translation quality automatically with good correlation to human evaluation

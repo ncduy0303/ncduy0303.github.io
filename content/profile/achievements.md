@@ -1,23 +1,41 @@
 ---
 title: "Achievements"
-ShowReadingTime: false
+ShowReadingTime: true
 showToC: true
 draft: false
 ---
+
+## 2025
+
+- DSTA BrainHack Cyber Defenders Discovery Camp 2023 (University) - Team 9th place
+- NUS Grey Cat The Flag 2025 - 11th place
+
+## 2024
+
+- Huawei ICT Competition Asia Pacific - Computing Track - First Prize
+- DSTA BrainHack Cyber Defenders Discovery Camp 2023 (University) - Team 16th place
+- Singapore AI CTF 2024 (Open) - Team 8th place
+- NUS Grey Cat The Flag 2024 - Team 7th place
+- NUS Top students (out of 401) in CS2106 Introduction to Operating Systems
+- NUS Top students (out of 34) in CS3233 Competitive Programming
+- NUS Dean's List AY2024/2025 Semester 1
 
 ## 2023
 
 - Citadel - Correlation One APAC Regional Terminal 2023 - 3rd place
 - TikTok Hackathon Challenge Finalist (Top 12)
-- NUS Quantitative Finance Society - Optiver Tradestastic 2023 Finalist (Top 30)
-- GIC Computing for the Community Fellowship Award
-- NUS Top Students for Discrete Structures
-- NUS Top Students for Programming Methodology II
 - DSTA BrainHack Cyber Defenders Discovery Camp 2023 (University) - Team 8th place
+- GIC Computing for the Community Fellowship Award
+- NUS Quantitative Finance Society - Optiver Tradestastic 2023 Finalist (Top 30)
+- NUS Top students (out of 475) in CS3230 Design and Analysis of Algorithms
+- NUS Top students (out of 438) in CS2103T Software Engineering
+- NUS Top students (out of 749) in CS2030S Programming Methodology II
+- NUS Top students (out of 126) in CS1231S Discrete Structure
+- NUS Dean's List AY2023/2024 Semester 1
 
 ## 2022
 
-- NUS Top Students for Data Structures and Algorithms
+- NUS Top students (out of 502) in CS2040 Data Structures and Algorithms
 - ASEAN Undergraduate Merit Scholarship
 
 ## 2021
