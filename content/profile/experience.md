@@ -5,8 +5,6 @@ showToC: true
 draft: false
 ---
 
-[My Resume](/pdfs/Resume.pdf)
-
 ### National University of Singapore
 
 August 2023 - Present

@@ -24,7 +24,7 @@ August 2018 - Present
 
 -   Bachelor of Computing (Honours) with Major in Computer Science and Second Major in Data Analytics
 
-[Transcript](/pdfs/Transcript.pdf)
+[Transcript](/pdfs/Duy_Nguyen_Transcript.pdf)
 
 [Modules](/profile/modules)
 
