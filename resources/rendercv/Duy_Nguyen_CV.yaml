@@ -1,0 +1,253 @@
+cv:
+  name: Duy Nguyen
+  # location: Singapore
+  email: nguyen.cao.duy.0303@gmail.com
+  # phone: "+65-89705145"
+  # website: https://ncduy0303.github.io
+  social_networks:
+    - network: LinkedIn
+      username: caoduynguyen
+    - network: GitHub
+      username: ncduy0303
+  sections:
+    education:
+      - institution: National University of Singapore
+        area: Computer Science
+        degree: B.Comp.
+        date:
+        start_date: 2022-08
+        end_date: present
+        location: Singapore
+        summary:
+        highlights:
+          - "GPA: 4.84/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Algorithms & Theory and Artificial Intelligence"
+          - Top Students for Discrete Structures, Data Structures and Algorithms, Programming Methodology, Software Engineering, Design and Analysis of Algorithms, Operating Systems, Competitive Programming
+      - institution: National University of Singapore
+        area: Data Science and Analytics
+        degree: B.Sc.
+        date:
+        start_date: 2022-08
+        end_date: present
+        location: Singapore
+        summary:
+        highlights:
+          - "GPA: 4.90/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Operations Research, minored in Quantitative Finance"
+    experience:
+      - company: AI Centre for Educational Technologies
+        position: Software Engineer Intern
+        date:
+        start_date: 2025-05
+        end_date: 2025-08
+        location: Singapore
+        summary: React, JavaScript, TypeScript, Material UI, Tailwind CSS, Ruby on Rails, PostgreSQL, OpenAI API
+        highlights:
+          - Enhanced [Coursemology](https://github.com/Coursemology/coursemology2), an open-source gamified LMS used by thousands of students and instructors
+          - Integrated AI-assisted grading and programming plagiarism services, enabling automated rubric feedback and similarity scans to enhance grading consistency and reduce manual workload for instructors
+      - company: Vilota
+        position: Algorithm Engineer Intern
+        date:
+        start_date: 2024-05
+        end_date: 2024-08
+        location: Singapore
+        summary: C++, Python, OpenCL
+        highlights:
+          - Integrated AprilTag 3 to accelerate fiducial marker detection, achieving 6x faster camera calibration
+          - Implemented real-time panorama generation algorithm with parallel processing on i.MX 8M Plus Processors
+          # - Literature review on monocular camera-imu initialisation implementation in ORB-SLAM3 and adapt it to our own product for visual inertia odometry task to reduce initialisation time and increase stability
+      - company: Computing for Voluntary Welfare Organisations
+        position: Software Engineer Intern
+        date:
+        start_date: 2023-05
+        end_date: 2023-08
+        location: Singapore
+        summary: React, TypeScript, Material UI, Golang, PostgreSQL
+        highlights:
+          - Built admin dashboard for a multi-tenancy management system used by 400+ social workers in 11 Active-Aging Centres
+          - Built low-code tool for custom reports, reducing developing time for new client requirements from days to hours
+      - company: Institute for Infocomm Research
+        position: NLP Research Intern
+        date:
+        start_date: 2022-01
+        end_date: 2022-04
+        location: Singapore
+        summary: Python, Pytorch, BeautifulSoup, Selenium, Fairseq, Wandb
+        highlights:
+          - Trained a transformer model for Vietnamese Neural Machine Translation Engine (40+ BLEU score) and different quality estimation models to evaluate translation quality automatically with good correlation to human evaluation
+    projects:
+      - name: "[PayDay Digital Wallet](https://devpost.com/software/payday-digital-wallet)"
+        date: Aug 2023
+        start_date:
+        end_date:
+        location:
+        summary: React Native, Node.js, Firebase, Stripe API 
+        highlights:
+          - Developed a mobile e-wallet with email OTP verification, guardian notification, and risk evaluation features
+          - Attained top 12 finalist teams at Tiktok Hackathon Challenge 2023
+      - name: "[Address Element Extraction](https://www.kaggle.com/competitions/scl-2021-ds/discussion/229233)"
+        date: Mar 2021
+        start_date:
+        end_date:
+        location:
+        summary: Python, Pytorch, Pandas, Transformers, IndoBERT
+        highlights:
+          - Fine-tuned a named-entity recognition model to extract street names from Indonesia addresses given by Shopee users
+          - Attained 1st place out of 1,000+ teams in the Data Science Challenge of Shopee Code League 2021
+    skills:
+      - label: Programming Languages
+        details: C/C++, Python, Java, JavaScript, TypeScript, Golang, Ruby, HTML/CSS, SQL, R, Bash
+      - label: Frameworks and Libraries
+        details: React, Material UI, Tailwind CSS, Ruby on Rails, PyTorch, Pandas, FastAPI, Tidyverse
+      - label: Developer Tools
+        details: Linux, Git, CMake, Docker, AWS, LaTeX
+      # - label: Languages
+      #   details: "English (fluent), Vietnamese (native)"
+    awards:
+      - bullet: "**Finalists** for various CTF events: DSTA Brainhack CDDC, GovTech Singapore AI CTF, NUS Greyhats Grey Cat The Flag"
+      - bullet: "**First Prize** for Computing Track at [Huawei ICT Competition Asia Pacific 2023-2024](https://www.huawei.com/sg/news/sg/2024/huawei%20ict%20competition%20asia%20pacific%202023-2024)"
+      - bullet: "**3rd Place** for APAC Terminal Fall 2023 — AI tower defense programming competition by Correlation One & Citadel"
+      - bullet: "**Silver Awards** for National Olympiad in Informatics (2019–2021) and Singapore Mathematical Olympiad (2020–2021)"
+      # - bullet: "NUS ASEAN Undergraduate Merit Scholarship"
+design:
+  theme: engineeringresumes
+  page:
+    size: us-letter
+    top_margin: 1.5cm
+    bottom_margin: 1.5cm
+    left_margin: 1.5cm
+    right_margin: 1.5cm
+    show_page_numbering: false
+    show_last_updated_date: false
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: XCharter
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: false
+  header:
+    name_font_family: XCharter
+    name_font_size: 25pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.5cm
+    vertical_space_between_connections_and_first_section: 0.75cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: XCharter
+    separator_between_connections: '|'
+    use_icons_for_connections: false
+    alignment: center
+  section_titles:
+    type: with-partial-line
+    font_family: XCharter
+    font_size: 1.2em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.55cm
+    vertical_space_below: 0.3cm
+    line_type: with-full-line
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 0.25cm
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.3em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, DEGREE in AREA -- LOCATION'
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    experience_entry:
+      main_column_first_row_template: '**COMPANY**, POSITION -- LOCATION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: international
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: '-'
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-07-30'
+  render_command:
+    dont_generate_html: true
+    dont_generate_markdown: true
+    dont_generate_png: true
+  bold_keywords: []
