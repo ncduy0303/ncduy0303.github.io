@@ -2,7 +2,7 @@ cv:
   name: Duy Nguyen
   # location: Singapore
   email: nguyen.cao.duy.0303@gmail.com
-  # phone: "+65-89705145"
+  phone: "+65-89705145"
   # website: https://ncduy0303.github.io
   social_networks:
     - network: LinkedIn
@@ -49,7 +49,7 @@ cv:
         start_date: 2024-05
         end_date: 2024-08
         location: Singapore
-        summary: C++, Python, OpenCL
+        summary: Linux, C++, Python, OpenCL
         highlights:
           - Integrated AprilTag 3 to accelerate fiducial marker detection, achieving 6x faster camera calibration
           - Implemented real-time panorama generation algorithm with parallel processing on i.MX 8M Plus Processors
@@ -79,7 +79,7 @@ cv:
         start_date:
         end_date:
         location:
-        summary: React Native, Node.js, Firebase, Stripe API 
+        summary: React Native, Node.js, Firebase, Stripe API
         highlights:
           - Developed a mobile e-wallet with email OTP verification, guardian notification, and risk evaluation features
           - Attained top 12 finalist teams at Tiktok Hackathon Challenge 2023
@@ -142,7 +142,7 @@ design:
     vertical_space_between_connections_and_first_section: 0.75cm
     horizontal_space_between_connections: 0.5cm
     connections_font_family: XCharter
-    separator_between_connections: '|'
+    separator_between_connections: "|"
     use_icons_for_connections: false
     alignment: center
   section_titles:
@@ -154,7 +154,6 @@ design:
     line_thickness: 0.5pt
     vertical_space_above: 0.55cm
     vertical_space_below: 0.3cm
-    line_type: with-full-line
   entries:
     date_and_location_width: 4.15cm
     left_and_right_margin: 0cm
@@ -173,9 +172,9 @@ design:
     summary_left_margin: 0cm
   entry_types:
     one_line_entry:
-      template: '**LABEL:** DETAILS'
+      template: "**LABEL:** DETAILS"
     education_entry:
-      main_column_first_row_template: '**INSTITUTION**, DEGREE in AREA -- LOCATION'
+      main_column_first_row_template: "**INSTITUTION**, DEGREE in AREA -- LOCATION"
       degree_column_template:
       degree_column_width: 1cm
       main_column_second_row_template: |-
@@ -183,19 +182,19 @@ design:
         HIGHLIGHTS
       date_and_location_column_template: DATE
     normal_entry:
-      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_first_row_template: "**NAME** -- **LOCATION**"
       main_column_second_row_template: |-
         SUMMARY
         HIGHLIGHTS
       date_and_location_column_template: DATE
     experience_entry:
-      main_column_first_row_template: '**COMPANY**, POSITION -- LOCATION'
+      main_column_first_row_template: "**COMPANY**, POSITION -- LOCATION"
       main_column_second_row_template: |-
         SUMMARY
         HIGHLIGHTS
       date_and_location_column_template: DATE
     publication_entry:
-      main_column_first_row_template: '**TITLE**'
+      main_column_first_row_template: "**TITLE**"
       main_column_second_row_template: |-
         AUTHORS
         URL (JOURNAL)
@@ -217,7 +216,7 @@ locale:
   year: year
   years: years
   present: present
-  to: '-'
+  to: "-"
   abbreviations_for_months:
     - Jan
     - Feb
@@ -245,7 +244,7 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-07-30'
+  date: "2025-07-30"
   render_command:
     dont_generate_html: true
     dont_generate_markdown: true
