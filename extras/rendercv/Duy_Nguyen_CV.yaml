@@ -39,7 +39,7 @@ cv:
         start_date: 2025-05
         end_date: 2025-08
         location: Singapore
-        summary: React, JavaScript, TypeScript, Material UI, Tailwind CSS, Ruby on Rails, PostgreSQL, OpenAI API
+        summary: TypeScript, React, Material UI, Tailwind CSS, Ruby on Rails, PostgreSQL, OpenAI API
         highlights:
           - Enhanced [Coursemology](https://github.com/Coursemology/coursemology2), an open-source gamified LMS used by thousands of students and instructors
           - Integrated AI-assisted grading and programming plagiarism services, enabling automated rubric feedback and similarity scans to enhance grading consistency and reduce manual workload for instructors
@@ -49,7 +49,7 @@ cv:
         start_date: 2024-05
         end_date: 2024-08
         location: Singapore
-        summary: Linux, C++, Python, OpenCL
+        summary: C++, Python, Linux, OpenCL
         highlights:
           - Integrated AprilTag 3 to accelerate fiducial marker detection, achieving 6x faster camera calibration
           - Implemented real-time panorama generation algorithm with parallel processing on i.MX 8M Plus Processors
@@ -60,26 +60,35 @@ cv:
         start_date: 2023-05
         end_date: 2023-08
         location: Singapore
-        summary: React, TypeScript, Material UI, Golang, PostgreSQL
+        summary: TypeScript, React, Material UI, Golang, PostgreSQL
         highlights:
           - Built admin dashboard for a multi-tenancy management system used by 400+ social workers in 11 Active-Aging Centres
           - Built low-code tool for custom reports, reducing developing time for new client requirements from days to hours
-      - company: Institute for Infocomm Research
-        position: NLP Research Intern
-        date:
-        start_date: 2022-01
-        end_date: 2022-04
-        location: Singapore
-        summary: Python, Pytorch, BeautifulSoup, Selenium, Fairseq, Wandb
-        highlights:
-          - Trained a transformer model for Vietnamese Neural Machine Translation Engine (40+ BLEU score) and different quality estimation models to evaluate translation quality automatically with good correlation to human evaluation
+      # - company: Institute for Infocomm Research
+      #   position: NLP Research Intern
+      #   date:
+      #   start_date: 2022-01
+      #   end_date: 2022-04
+      #   location: Singapore
+      #   summary: Python, Pytorch, Transformers
+      #   highlights:
+      #     - Trained a transformer model for Vietnamese Neural Machine Translation Engine (40+ BLEU score) and different quality estimation models to evaluate translation quality automatically with good correlation to human evaluation
     projects:
+      - name: "[PeerPrep Interview Platform](https://github.com/CS3219-AY2526Sem1/cs3219-ay2526s1-project-g13)"
+        date:
+        start_date: 2025-09
+        end_date: 2025-11
+        location:
+        summary: JavaScript, Node.js, MongoDB, Google Cloud Platform (GCP)
+        highlights:
+          - Architected a scalable serverless microservices infrastructure on GCP with Infrastructure as Code (IaC) using Terraform
+          - Engineered a collaboration service using WebSockets and CRDTs (Yjs) for conflict-free, real-time shared code editing
       - name: "[PayDay Digital Wallet](https://devpost.com/software/payday-digital-wallet)"
         date: Aug 2023
         start_date:
         end_date:
         location:
-        summary: React Native, Node.js, Firebase, Stripe API
+        summary: JavaScript, React Native, Node.js, Firebase, Stripe API
         highlights:
           - Developed a mobile e-wallet with email OTP verification, guardian notification, and risk evaluation features
           - Attained top 12 finalist teams at Tiktok Hackathon Challenge 2023
@@ -88,19 +97,23 @@ cv:
         start_date:
         end_date:
         location:
-        summary: Python, Pytorch, Pandas, Transformers, IndoBERT
+        summary: Python, Pytorch, Transformers
         highlights:
           - Fine-tuned a named-entity recognition model to extract street names from Indonesia addresses given by Shopee users
           - Attained 1st place out of 1,000+ teams in the Data Science Challenge of Shopee Code League 2021
     skills:
-      - label: Programming Languages
-        details: C/C++, Python, Java, JavaScript, TypeScript, Golang, Ruby, HTML/CSS, SQL, R, Bash
-      - label: Frameworks and Libraries
-        details: React, Material UI, Tailwind CSS, Ruby on Rails, PyTorch, Pandas, FastAPI, Tidyverse
-      - label: Developer Tools
-        details: Linux, Git, CMake, Docker, AWS, LaTeX
+      # - label: Programming Languages
+      #   details: C/C++, Python, Java, JavaScript, TypeScript, Golang, Ruby, HTML/CSS, SQL, R, Bash
+      # - label: Frameworks and Libraries
+      #   details: React, Material UI, Tailwind CSS, Ruby on Rails, PyTorch, Pandas, FastAPI, Tidyverse
+      # - label: Developer Tools
+      #   details: Linux, Git, Docker, AWS, LaTeX
       # - label: Languages
       #   details: "English (fluent), Vietnamese (native)"
+      - label: Full Stack Development
+        details: Frontend (React, Material UI, Tailwind CSS), Backend (Node.js, Golang, Ruby on Rails, FastAPI), Database (PostgreSQL, MongoDB, Redis), DevOps (Linux, Git, Docker, CI/CD, Terraform, AWS, GCP)
+      - label: Data Science
+        details: Programming (R, Python), Frameworks (PyTorch, Transformers), Tools (Weights & Biases, Jupyter, LaTeX)
     awards:
       - bullet: "**Finalists** for various CTF events: DSTA Brainhack CDDC, GovTech Singapore AI CTF, NUS Greyhats Grey Cat The Flag"
       - bullet: "**First Prize** for Computing Track at [Huawei ICT Competition Asia Pacific 2023-2024](https://www.huawei.com/sg/news/sg/2024/huawei%20ict%20competition%20asia%20pacific%202023-2024)"
