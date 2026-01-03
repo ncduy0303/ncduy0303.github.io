@@ -9,6 +9,7 @@ draft: false
 
 - DSTA BrainHack Cyber Defenders Discovery Camp 2023 (University) - Team 9th place
 - NUS Grey Cat The Flag 2025 - 11th place
+- NUS Dean's List AY2025/2026 Semester 1
 
 ## 2024
 
