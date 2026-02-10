@@ -5,6 +5,12 @@ showToC: true
 draft: false
 ---
 
+## 2026
+
+- NUS Dean's List AY2025/2026 Semester 2
+- Algorithms & Theory Focus Area (Distinction)
+- Networking and Distributed Systems Focus Area (Distinction)
+
 ## 2025
 
 - DSTA BrainHack Cyber Defenders Discovery Camp 2023 (University) - Team 9th place

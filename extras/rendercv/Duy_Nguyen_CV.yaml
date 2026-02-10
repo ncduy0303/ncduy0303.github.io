@@ -20,7 +20,7 @@ cv:
         location: Singapore
         summary:
         highlights:
-          - "GPA: 4.84/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Algorithms & Theory and Artificial Intelligence"
+          - "GPA: 4.85/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Algorithms & Theory and Artificial Intelligence"
           - Top Students for Discrete Structures, Data Structures and Algorithms, Programming Methodology, Software Engineering, Design and Analysis of Algorithms, Operating Systems, Competitive Programming
       - institution: National University of Singapore
         area: Data Science and Analytics
@@ -31,7 +31,7 @@ cv:
         location: Singapore
         summary:
         highlights:
-          - "GPA: 4.90/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Operations Research, minored in Quantitative Finance"
+          - "GPA: 4.84/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Operations Research, minored in Quantitative Finance"
     experience:
       - company: AI Centre for Educational Technologies
         position: Software Engineer Intern
