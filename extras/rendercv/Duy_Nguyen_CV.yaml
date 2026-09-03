@@ -20,7 +20,7 @@ cv:
         location: Singapore
         summary:
         highlights:
-          - "GPA: 4.85/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Algorithms & Theory and Artificial Intelligence"
+          - "GPA: 4.86/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Algorithms & Theory and Artificial Intelligence"
           - Top Students for Discrete Structures, Data Structures and Algorithms, Programming Methodology, Software Engineering, Design and Analysis of Algorithms, Operating Systems, Competitive Programming
       - institution: National University of Singapore
         area: Data Science and Analytics
@@ -31,8 +31,17 @@ cv:
         location: Singapore
         summary:
         highlights:
-          - "GPA: 4.84/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Operations Research, minored in Quantitative Finance"
+          - "GPA: 4.86/5.00 ([Transcript](https://ncduy0303.github.io/pdfs/Duy_Nguyen_Transcript.pdf)), concentrated in Operations Research, minored in Quantitative Finance"
     experience:
+      - company: Citadel Securities
+        position: Software Engineer Intern
+        date:
+        start_date: 2026-05
+        end_date: 2026-08
+        location: Hong Kong
+        summary: kdb+/q, Python, C++, TypeScript
+        highlights:
+          - Refactored a high-throughput streaming engine, migrating in-memory state to partitioned disk storage with local caching to eliminate critical memory bottlenecks. Engineered a streaming statistical service computing rolling metrics over high-frequency tick data to detect data divergence in real time with interactive dashboards for monitoring and alerting.
       - company: AI Centre for Educational Technologies
         position: Software Engineer Intern
         date:
@@ -41,8 +50,7 @@ cv:
         location: Singapore
         summary: TypeScript, React, Material UI, Tailwind CSS, Ruby on Rails, PostgreSQL, OpenAI API
         highlights:
-          - Enhanced [Coursemology](https://github.com/Coursemology/coursemology2), an open-source gamified LMS used by thousands of students and instructors
-          - Integrated AI-assisted grading and programming plagiarism services, enabling automated rubric feedback and similarity scans to enhance grading consistency and reduce manual workload for instructors
+          - Enhanced [Coursemology](https://github.com/Coursemology/coursemology2), an open-source gamified LMS used by thousands of students and instructors. Integrated AI-assisted grading and programming plagiarism services, enabling automated rubric feedback and similarity scans to enhance grading consistency and reduce manual workload for instructors.
       - company: Vilota
         position: Algorithm Engineer Intern
         date:
@@ -51,8 +59,7 @@ cv:
         location: Singapore
         summary: C++, Python, Linux, OpenCL
         highlights:
-          - Integrated AprilTag 3 to accelerate fiducial marker detection, achieving 6x faster camera calibration
-          - Implemented real-time panorama generation algorithm with parallel processing on i.MX 8M Plus Processors
+          - Integrated AprilTag 3 to accelerate fiducial marker detection, achieving 6x faster camera calibration. Implemented real-time panorama generation algorithm with parallel processing on i.MX 8M Plus Processors.
           # - Literature review on monocular camera-imu initialisation implementation in ORB-SLAM3 and adapt it to our own product for visual inertia odometry task to reduce initialisation time and increase stability
       - company: Computing for Voluntary Welfare Organisations
         position: Software Engineer Intern
@@ -62,8 +69,9 @@ cv:
         location: Singapore
         summary: TypeScript, React, Material UI, Golang, PostgreSQL
         highlights:
-          - Built admin dashboard for a multi-tenancy management system used by 400+ social workers in 11 Active-Aging Centres
-          - Built low-code tool for custom reports, reducing developing time for new client requirements from days to hours
+          - Built multi-tenant admin dashboards and a low-code audit reporting engine for 400+ social workers in 11 Active-Aging Centres, reducing custom report turnaround time from days to hours.
+          # - Built admin dashboard for a multi-tenancy management system used by 400+ social workers in 11 Active-Aging Centres
+          # - Built low-code tool for custom reports, reducing developing time for new client requirements from days to hours
       # - company: Institute for Infocomm Research
       #   position: NLP Research Intern
       #   date:
@@ -81,17 +89,17 @@ cv:
         location:
         summary: JavaScript, Node.js, MongoDB, Google Cloud Platform (GCP)
         highlights:
-          - Architected a scalable serverless microservices infrastructure on GCP with Infrastructure as Code (IaC) using Terraform
-          - Engineered a collaboration service using WebSockets and CRDTs (Yjs) for conflict-free, real-time shared code editing
-      - name: "[PayDay Digital Wallet](https://devpost.com/software/payday-digital-wallet)"
-        date: Aug 2023
-        start_date:
-        end_date:
-        location:
-        summary: JavaScript, React Native, Node.js, Firebase, Stripe API
-        highlights:
-          - Developed a mobile e-wallet with email OTP verification, guardian notification, and risk evaluation features
-          - Attained top 12 finalist teams at Tiktok Hackathon Challenge 2023
+          - Architected a scalable serverless microservices infrastructure on GCP with Infrastructure as Code (IaC) using Terraform.
+          - Engineered a collaboration service using WebSockets and CRDTs (Yjs) for conflict-free, real-time shared code editing.
+      # - name: "[PayDay Digital Wallet](https://devpost.com/software/payday-digital-wallet)"
+      #   date: Aug 2023
+      #   start_date:
+      #   end_date:
+      #   location:
+      #   summary: JavaScript, React Native, Node.js, Firebase, Stripe API
+      #   highlights:
+      #     - Developed a mobile e-wallet with email OTP verification, guardian notification, and risk evaluation features
+      #     - Attained top 12 finalist teams at Tiktok Hackathon Challenge 2023
       - name: "[Address Element Extraction](https://www.kaggle.com/competitions/scl-2021-ds/discussion/229233)"
         date: Mar 2021
         start_date:
@@ -99,8 +107,8 @@ cv:
         location:
         summary: Python, Pytorch, Transformers
         highlights:
-          - Fine-tuned a named-entity recognition model to extract street names from Indonesia addresses given by Shopee users
-          - Attained 1st place out of 1,000+ teams in the Data Science Challenge of Shopee Code League 2021
+          - Fine-tuned a named-entity recognition model to extract street names from Indonesia addresses given by Shopee users.
+          - Attained 1st place out of 1,000+ teams in the Data Science Challenge of Shopee Code League 2021.
     skills:
       # - label: Programming Languages
       #   details: C/C++, Python, Java, JavaScript, TypeScript, Golang, Ruby, HTML/CSS, SQL, R, Bash
@@ -111,13 +119,13 @@ cv:
       # - label: Languages
       #   details: "English (fluent), Vietnamese (native)"
       - label: Full Stack Development
-        details: Frontend (React, Material UI, Tailwind CSS), Backend (Node.js, Golang, Ruby on Rails, FastAPI), Database (PostgreSQL, MongoDB, Redis), DevOps (Linux, Git, Docker, CI/CD, Terraform, AWS, GCP)
+        details: Frontend (React, Material UI, Tailwind CSS), Backend (Node.js, Golang, Ruby on Rails, FastAPI, C++), Database (PostgreSQL, MongoDB, kdb+/q, Redis), DevOps (Linux, Git, Docker, CI/CD, Terraform, AWS, GCP)
       - label: Data Science
         details: Programming (R, Python), Frameworks (PyTorch, Transformers), Tools (Weights & Biases, Jupyter, LaTeX)
     awards:
       - bullet: "**Finalists** for various CTF events: DSTA Brainhack CDDC, GovTech Singapore AI CTF, NUS Greyhats Grey Cat The Flag"
       - bullet: "**First Prize** for Computing Track at Huawei ICT Competition Asia Pacific 2023-2024"
-      - bullet: "**3rd Place** for APAC Terminal Fall 2023 — AI tower defense programming competition by Correlation One & Citadel"
+      # - bullet: "**3rd Place** for APAC Terminal Fall 2023 — AI tower defense programming competition by Correlation One & Citadel"
       - bullet: "**Silver Awards** for National Olympiad in Informatics (2019–2021) and Singapore Mathematical Olympiad (2020–2021)"
       # - bullet: "NUS ASEAN Undergraduate Merit Scholarship"
 design:
